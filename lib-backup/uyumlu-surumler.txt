@@ -1,0 +1,4 @@
+Ubuntu 20.04
+CUDA 11.6
+DeepStream 6.1.0
+TensorRT 8.2.5.1-cuda11.4
