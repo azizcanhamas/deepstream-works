@@ -1,0 +1,5 @@
+run_add_del altindaki controller scripti
+URI olarak burayi baz aliyor. Ornek videolar icin
+uygun dizini controller scriptinde belirtiniz.
+
+URI ornegi : file:///home/azu/sample-video.h264

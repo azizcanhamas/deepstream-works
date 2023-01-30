@@ -1,0 +1,17 @@
+KONU ILE ILISKILI BINDINGLER:
+	Ön uç-arka uç haberleşmesi için
+		* deepstream-retail-analytics
+		* deepstream-test5
+		* deepstream-test4
+		
+	   NOT: Kafka gibi bir message-broker
+	   mimarisi ile ön uçtan arka uca tetikleme
+	   ulaştırılmalı
+	
+	Kaynak ekleyip çıkarmak için;
+		* runtime_source_add_delete)
+	
+PLAN:
+	* Django uygulamasında selectbox'dan seçilen değer
+	submit edildiği zaman URL üzerinden parametre olarak
+	views.py altındaki metoda yönlendirilecek.

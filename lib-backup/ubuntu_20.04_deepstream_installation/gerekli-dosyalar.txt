@@ -1,0 +1,6 @@
+GITHUB : https://github.com/rajeshroy402/DeepStream-dGPU-Installation/
+
+cuda-keyring_1.0-1_all.deb
+cuda-repo-ubuntu2004-11-6-local_11.6.1-510.47.03-1_amd64.deb
+deepstream-6.1_6.1.0-1_amd64.deb
+nv-tensorrt-repo-ubuntu2004-cuda11.4-trt8.2.5.1-ga-20220505_1-1_amd64.deb

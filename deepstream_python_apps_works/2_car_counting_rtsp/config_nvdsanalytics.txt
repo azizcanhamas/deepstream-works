@@ -1,0 +1,37 @@
+[property]
+enable=1
+
+config-width=1920
+config-height=1080
+#osd-mode 0: Dont display any lines, rois and text
+#         1: Display only lines, rois and static text i.e. labels
+#         2: Display all info from 1 plus information about counts
+osd-mode=2
+#Set OSD font size that has to be displayed
+display-font-size=12
+
+## Per stream configuration
+[roi-filtering-stream-0]
+#enable or disable following feature
+enable=1
+#ROI to filter select objects, and remove from meta data
+
+# Giris ve cikis yapan araclari saymak icin her yone bir ROI ekle.
+# Her ROI icin x ve y eksenine göre 4 adet nokta verilir.
+# Degisken yapisi; roi-NAME seklindedir.
+roi-GIRIS=910;530;780;890;100;890;710;526
+roi-CIKIS=1220;535;1695;895;1115;895;1020;535
+
+#remove objects in the ROI
+inverse-roi=0
+class-id=-1
+
+# Direction Detection ile tespit edilen 
+# nesnelerin yonunun tespit edilmesi
+#[direction-detection-stream-0]
+#enable=1
+#Label;direction;
+#direction-South=485;590;217;790;
+#direction-North=960;785;912;588;
+#class-id=0
+
