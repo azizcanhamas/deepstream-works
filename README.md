@@ -2,9 +2,10 @@
 
 
 # Car counting from RTSP stream.
-https://github.com/azizcanhamas/deepstream-works/assets/57099416/0a720b14-9168-48ab-a346-9ec022dd1f6a
+https://github.com/azizcanhamas/deepstream-works/assets/57099416/0308d12d-e2e5-44db-b597-439ffd96d972
 
 
 # Multistream management on Deepstream SDK.
-https://github.com/azizcanhamas/deepstream-works/assets/57099416/5c499368-94d4-48c6-a62f-d02a4753dccb
+https://github.com/azizcanhamas/deepstream-works/assets/57099416/2b3e14a7-032b-4060-b5cc-b54c710bb91b
+
 
